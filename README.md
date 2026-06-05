@@ -15,6 +15,7 @@ The solution ingests raw data, performs data cleansing and transformation, and c
 - Data Analytics
 
 ## Architecture
+![Data Architecture](architecture/data_architecture.png)
 
 ### Bronze Layer
 Stores raw source data.
