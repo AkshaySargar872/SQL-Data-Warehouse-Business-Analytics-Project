@@ -17,19 +17,11 @@ The solution ingests raw data, performs data cleansing and transformation, and c
 ## Architecture
 ![Data Architecture](architecture/data_architecture.png)
 
-## Architecture Overview
+![Data Flow](architecture/data_flow.png_.jpeg)
 
-![Data Flow](architecture/data_flow.png)
+![Data Integration](architecture/data_integration.png_.jpeg)
 
-## Data Integration
-
-![Data Integration](architecture/data_integration.png)
-
-## Sales Data Mart
-
-![Sales Data Mart](architecture/sales_data_mart.png)
-
-
+![Sales Data Mart](architecture/Sales_Data_Mart.jpeg)
 
 
 ### Bronze Layer
