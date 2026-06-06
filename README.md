@@ -16,11 +16,11 @@ The solution ingests raw data, performs data cleansing and transformation, and c
 
 ## Architecture
 ![Data Architecture](architecture/data_architecture.png)
-
+## Data Flow
 ![Data Flow](architecture/data_flow.png_.jpeg)
-
+## Data Integration
 ![Data Integration](architecture/data_integration.png_.jpeg)
-
+## Sales Data Mart
 ![Sales Data Mart](architecture/Sales_Data_Mart.jpeg)
 
 
